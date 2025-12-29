@@ -1,0 +1,8 @@
+{
+  "name": "Civic Cyber Crew",
+  "description": "An AI-powered civic issue reporting platform that enables citizens to report urban problems using images and text, featuring automated AI routing and a public transparency dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
